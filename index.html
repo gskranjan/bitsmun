@@ -185,19 +185,38 @@
         <p><span class="glyphicon glyphicon-envelope"></span> email@mail.com</p>
       </div>
       <div class="col-sm-7 slideanim">
-        <div class="row">
-          <div class="col-sm-6 form-group">
-            <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
-          </div>
-          <div class="col-sm-6 form-group">
-            <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
-          </div>
-        </div>
-        <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea><br>
-        <div class="row">
-          <div class="col-sm-12 form-group">
-            <button class="btn btn-default pull-right" type="submit">Send</button>
-          </div>
+        <div class="row" style="padding:40px;">
+          <form action="https://docs.google.com/forms/d/e/1FAIpQLSfnnVYwrTJWbBAWVM0m1QHO1USq3cri07WKhSrD2lDOVccJzw/formResponse" method="post"
+            id="application-form" target="_blank">
+            <div class="col-sm-6 form-group">
+              <div class="form-group">
+                <input type="text" name="entry.578408962" value="" class="form-control name" id="entry.578408962" dir="auto" aria-label="Name  "
+                  aria-required="true" placeholder="Name">
+              </div>
+            </div>
+            <div class="col-sm-6 form-group">
+              <div class="form-group">
+                <input type="text" name="entry.1756637038" value="" class="form-control email" id="entry.1756637038" dir="auto" aria-label="Email  "
+                  aria-required="true" placeholder="Email">
+              </div>
+            </div>
+            <div class="col-sm-6 form-group">
+              <div class="form-group">
+                <input type="text" name="entry.1947668939" value="" class="form-control phone" id="entry.1947668939" dir="auto" aria-label="Phone Number  "
+                  aria-required="true" placeholder="Phone">
+              </div>
+            </div>
+            <div class="col-sm-6 form-group">
+              <div class="form-group">
+                <textarea form="application-form" name="entry.284164981" id="entry.284164981" class="form-control custom-control" placeholder="Comment"></textarea>
+              </div>
+            </div>
+            <div class="col-sm-6 form-group">
+              <div class="form-group">
+                <input type="submit" id="submit" class="btn btn-custom" name="submit" value="Submit Query">
+              </div>
+            </div>
+          </form>
         </div>
       </div>
     </div>
