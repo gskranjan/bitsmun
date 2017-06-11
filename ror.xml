@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://bitsmunhyd.in/</title>
+  <link>https://bitsmunhyd.in/</link>
+
+<item>
+     <link>https://bitsmunhyd.in/</link>
+     <title>BITSMUN '17</title>
+     <description>BITSMUN '17</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bitsmunhyd.in/index.html</link>
+     <title>BITSMUN '17</title>
+     <description>BITSMUN '17</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://bitsmunhyd.in/team.html</link>
+     <title>BITSMUN '17</title>
+     <description>BITSMUN '17</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
